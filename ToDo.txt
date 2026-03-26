@@ -1,0 +1,7 @@
+﻿
+git remote add origin https://github.com/BorisPBA/reversWords.git
+git push -u origin master
+
+
+
+
