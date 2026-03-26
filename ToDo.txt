@@ -1,8 +1,0 @@
-﻿
-git remote add origin https://github.com/BorisPBA/change-direction.git
-git branch -M main - переименовать master в main
-git push -u origin main
-
-
-
-
