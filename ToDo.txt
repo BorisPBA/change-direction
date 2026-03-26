@@ -1,6 +1,7 @@
 ﻿
-git remote add origin https://github.com/BorisPBA/reversWords.git
-git push -u origin master
+git remote add origin https://github.com/BorisPBA/change-direction.git
+git branch -M main - переименовать master в main
+git push -u origin main
 
 
 
